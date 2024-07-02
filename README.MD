@@ -201,8 +201,4 @@ Follow the on-screen prompts to perform arithmetic operations. You can continue 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-Feel free to modify or add any sections as needed!
+This project is licensed under the MIT License.
